@@ -1,0 +1,1 @@
+# PrototypePatternExample_ConsoleApp
